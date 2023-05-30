@@ -1,0 +1,51 @@
+.logo {
+  height: 35px;
+}
+
+.MuiPaper-root.MuiAppBar-root {
+  background-color: white;
+  box-shadow: 0px 0px 8px 4px rgb(228, 228, 228);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.MuiContainer-root.MuiContainer-maxWidthXl {
+  padding: 5px 30px;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.nav-link {
+  font-size: 17px;
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
+  margin-right: 40px;
+}
+
+.nav-link:hover {
+  color: rgb(0, 98, 255);
+}
+
+.drawerLinks a {
+  margin-top: 30px;
+}
+
+.active {
+  color: rgb(0, 128, 255);
+}
+.MuiToolbar-root.MuiToolbar-regular {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+@media screen and (min-width: 600px) and (max-width: 640px) {
+  .aboutUs{
+    margin-right: 0px !important;
+  }
+}
