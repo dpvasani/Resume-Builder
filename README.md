@@ -140,7 +140,7 @@
 * React-Redux
 * Store
 * React-Avatar-edit
-* Vanilla CSS
+* Vanilla JS
 * JSX
 * Uniq ID
 * React-Hook-Forms
